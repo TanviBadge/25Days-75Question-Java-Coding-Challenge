@@ -1,1 +1,1 @@
-# 25Days-75Question-Java-Coding-Challenge
+# 25Days-75Question-C-Coding-Challenge
